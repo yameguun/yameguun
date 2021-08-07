@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Seiji Tanaka</h1>
 
+<h3 align="left">Blog:</h3>
+<a href="https://www.yameguun.com/" target="_blank">My Blog</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/s_tanaka_suncac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="s_tanaka_suncac" height="30" width="40" /></a>
