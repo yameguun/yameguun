@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Seiji Tanaka</h1>
 
 <h3 align="left">Blog:</h3>
-<a href="https://www.yameguun.com/" target="_blank">My Blog</a>
+<a href="https://yameguun.com/" target="_blank">My Blog</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
